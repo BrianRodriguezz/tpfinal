@@ -6,17 +6,17 @@ const NavBar = () => {
   return (
     <header>
         <Link to="/">
-          <h1>Marolio Online</h1>
+          <h1>Referee Shop</h1>
         </Link>
 
         <nav>
             <ul>
                 <li> 
-                    <NavLink to="/categoria/2"> Lácteos </NavLink>
+                    <NavLink to="/categoria/2"> Remeras </NavLink>
                 </li>
 
                 <li>  
-                    <NavLink to="/categoria/3"> Almacén </NavLink>
+                    <NavLink to="/categoria/3"> Accesorios </NavLink>
                 </li>
                 
             </ul>
